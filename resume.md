@@ -1,8 +1,8 @@
 # Sarah Liu
 
-swliu97@gmail.com  ||  https://www.linkedin.com/in/swliu79/
+swliu97@gmail.com  https://www.linkedin.com/in/swliu79/
 
-##### A multi-skilled individual looking for job oppurtunities!
+A multi-skilled individual looking for job oppurtunities!
 
 # Education
 University of Washington (Seattle, WA)
