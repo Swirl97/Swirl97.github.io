@@ -1,6 +1,7 @@
 # Sarah Liu
 
-swliu97@gmail.com  https://www.linkedin.com/in/swliu79/
+swliu97@gmail.com ● [LinkedIn](https://www.linkedin.com/in/swliu79/)
+
 
 A multi-skilled individual looking for job oppurtunities!
 
@@ -16,6 +17,8 @@ Expected Graduation: **June 2020**
 
 
 # Work Experience
+
+<img src="SCL.png" width="689" height="125">
 
 **Seattle City Light** (Seattle, WA)
 
@@ -37,9 +40,10 @@ Volunteer/Emergency Worker _September 2019 - Present_
 
 
 # Skills
-
+```
 - Technical: 85 WPM, Sony Vegas (video editing), Paint.net (photo editing), IT troubleshooting, coding, data entry,
 - Experienced in: Troubleshooting, data cleanup, user testing, Sony Vegas, Paint.net, data analysis, data visualization, research, Scratch, video conferencing, ArcMap, ArcGIS, ArcFM
 - Familiar with: Tableau, Java, HTML/CSS + Javascript, Microsoft Office, Adobe Photoshop/InDesign/Premiere, Git, GitHub, PostgreSQL, Python, R, OpenStreetMap, QGIS
 - Interpersonal: Customer service, organization, attention to detail, adaptability, project management, event planning, personal support, workplace safety
 - Languages: English, Cantonese (speaking), French (Level A2)
+```
